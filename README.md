@@ -17,7 +17,7 @@ Sistem menggunakan AWS dengan komponen:
 - AWS Cloud
 
 ## Anggota Tim
-- Nama 1 - Cloud Architect
-- Nama 2 - DevOps Engineer
-- Nama 3 - Backend Developer
-- Nama 4 - Security Engineer
+- Raphael Reynalda - Cloud Architect
+- tugas bersama - DevOps Engineer
+- Muhammad Isyfa’lana - Backend Developer
+- Ahmad Syaifullah - Security Engineer

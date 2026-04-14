@@ -12,7 +12,7 @@ Sistem menggunakan AWS dengan komponen:
 - CloudFront untuk CDN
 
 ## Diagram Arsitektur
-<img width="572" height="800" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/e7797a36-288c-4e8f-b9df-aca832bad003" />
+<img width="300" height="500" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/e7797a36-288c-4e8f-b9df-aca832bad003" />
 
 
 ## Teknologi
